@@ -1,0 +1,41 @@
+header{
+    background: rgb(54, 53, 53);
+    color: rgb(232, 232, 173);
+    padding: 20px;
+    margin: -9px;
+    width: 100%;
+}
+
+.nav{
+    padding: 6px;
+    background: rgb(54, 53, 53);
+    color:rgb(232, 232, 173);
+    font-family: Ubuntu;
+    vertical-align: middle;
+    font-size: 24px;
+    margin-right: 17px;
+    margin-left: 54px;
+}
+b{
+    font-size: large;
+}
+
+a.doownlaod{
+    margin: 2px;
+    border-radius: 2px;
+    border-width: 7px;
+    border-color: black;
+}
+
+.info{
+    padding: 22px;
+}
+
+.main_contents{
+    font-family: Fira Code, Cascadia Code;
+}
+
+.the_para{
+    font-family: Cascadia Code;
+    font-size: 15px;
+}

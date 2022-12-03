@@ -1,0 +1,35 @@
+#fal{
+    width: 244px;
+    border-radius: 22px;
+    height: 51px;
+}
+
+.name{
+    width: 244px;
+    border-radius: 22px;
+    color: blue;
+}
+
+main{
+    padding: 5px;
+}
+
+.search{
+    color: black;
+    border-color: white;
+    vertical-align: middle;
+    padding:8px;
+    margin-left: 26px;
+    margin-right: -18px;
+    height: 11px;
+    width: 222px;
+    border-radius: 8px;
+    border-width: thin;
+}
+
+#logo{
+    height: 50px;
+    width: 50px;
+    margin-bottom: -20px;
+    margin-top: -8px;
+}

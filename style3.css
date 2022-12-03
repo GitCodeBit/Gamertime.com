@@ -1,0 +1,11 @@
+#search{
+    padding: 22px;
+    display: flex;
+    border-color: rgb(123, 123, 134);
+    align-items: center;
+
+}
+
+#mainer{
+    margin-left: 22px;
+}
